@@ -1,0 +1,1 @@
+.\mykeccak.o: myKeccak.c
